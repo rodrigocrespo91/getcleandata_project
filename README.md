@@ -1,4 +1,4 @@
-# Getting and Cleaning Data Coruse Project
+# Getting and Cleaning Data Course Project
 This repo contains my solution to the Getting and Cleaning Data Course Project.
 Execute "run_analysis.R". The unzipped data needs to be on the same folder as the R file.
 
