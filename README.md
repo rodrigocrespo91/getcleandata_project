@@ -2,7 +2,7 @@
 This repo contains my solution to the Getting and Cleaning Data Course Project.
 Execute "run_analysis.R". The unzipped data needs to be on the same folder as the R file. (/UCI HAR Dataset...).
 
-IT DOES NOT DOWNLOAD THE DATA, YOU HAVE TO MANUALLY DO IT.
+IT DOES NOT DOWNLOAD THE DATA, YOU HAVE TO DO IT MANUNALLY.
 
 # Analysis Description
 The .R code has two functions:
